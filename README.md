@@ -1,12 +1,10 @@
 # Pizza Sales
 
-## Problem Statement:
+## Problem Statement
 
 The pizza restaurant management wants to gain insights into their sales performance to optimize their operations and marketing strategies. They aim to understand their revenue, average order value, pizza sales distribution, popular pizza categories, and sizes. Additionally, they want to identify their best and worst-selling pizzas based on revenue, quantity sold, and number of orders.
 
 ##  Page 1: Home
-
- ## Report Snapshot (Home)
 
 ![image](https://github.com/karankumar26/Emp_Performance_Dashboard_PowerBI/assets/147133944/bb818396-2b7c-46a5-8355-143924d9e496)
 
@@ -33,8 +31,6 @@ Demonstrates the total pizzas sold by pizza category, helping to identify the mo
 
 ## Page 2: Best/Worst Sellers
 
- ## Report Snapshot (Best/Worst Sellers)
-
 ![image](https://github.com/karankumar26/Emp_Performance_Dashboard_PowerBI/assets/147133944/6af6517e-c4bf-41a8-b353-1e9d0ff968c6)
 
 ### Visualizations:
@@ -55,5 +51,5 @@ Demonstrates the total pizzas sold by pizza category, helping to identify the mo
 -	Understanding the distribution of sales by pizza category and size can inform marketing and product development strategies.
 -	Identifying the best and worst-selling pizzas can guide menu optimization efforts.
 
-## Conclusion:
+## Conclusion
 The dashboard provides comprehensive insights into the pizza sales performance, allowing the restaurant management to make data-driven decisions to enhance operational efficiency and maximize revenue. By understanding key metrics and trends, they can focus on areas of improvement and capitalize on successful products. Regular monitoring and analysis of the dashboard will enable continuous optimization of business strategies.
